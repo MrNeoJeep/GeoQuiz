@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question1">第一个问题</string>
+    <string name="question2">第二个问题</string>
+    <string name="question3">第三个问题</string>
+    <string name="question4">第四个问题</string>
+
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">InCorrect</string>
+</resources>
