@@ -45,6 +45,7 @@ public class QuizActivity extends AppCompatActivity {
         mTvQuestion = findViewById(R.id.tv_question);
 
 
+
         mBtnTrue.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
